@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Takuya Maekaya",
+        "email": "takuya.maekaya@gmail.com",
+        "password": "1234",
+        "gender": "Male"
+      }
+    ]
+  }
+  
